@@ -1,1 +1,1 @@
-[Recipes](/chowdown)
+[Recipes](http://lisahughlett.github.io/chowdown/)
